@@ -1,0 +1,1 @@
+# OANDA_XPTUSD_Platinum
