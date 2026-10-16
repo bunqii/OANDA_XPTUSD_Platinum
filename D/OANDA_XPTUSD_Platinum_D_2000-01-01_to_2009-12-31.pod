@@ -1,0 +1,65 @@
+{
+  "pod_version": "4.0",
+  "instrument": "XPT_USD",
+  "granularity": "D",
+  "chunk_start": "2000-01-01",
+  "chunk_end": "2009-12-31",
+  "parquet_file": "OANDA_XPTUSD_Platinum_D_2000-01-01_to_2009-12-31.parquet",
+  "data_file": "OANDA_XPTUSD_Platinum_D_2000-01-01_to_2009-12-31.parquet",
+  "row_count": 1639,
+  "first_candle": {
+    "time": 1104789600,
+    "Time": "2005-01-03T22:00:00.000000000Z",
+    "open": 855.0,
+    "high": 856.5,
+    "low": 842.5,
+    "close": 844.0,
+    "volume": 565
+  },
+  "last_candle": {
+    "time": 1262296800,
+    "Time": "2009-12-31T22:00:00.000000000Z",
+    "open": 1469.0,
+    "high": 1470.5,
+    "low": 1462.5,
+    "close": 1468.0,
+    "volume": 152
+  },
+  "csv_file": "OANDA_XPTUSD_Platinum_D_2000-01-01_to_2009-12-31.parquet",
+  "csv_row_count": 1639,
+  "csv_first_candle": {
+    "time": 1104789600,
+    "Time": "2005-01-03T22:00:00.000000000Z",
+    "open": 855.0,
+    "high": 856.5,
+    "low": 842.5,
+    "close": 844.0,
+    "volume": 565
+  },
+  "csv_last_candle": {
+    "time": 1262296800,
+    "Time": "2009-12-31T22:00:00.000000000Z",
+    "open": 1469.0,
+    "high": 1470.5,
+    "low": 1462.5,
+    "close": 1468.0,
+    "volume": 152
+  },
+  "status": "VERIFIED",
+  "verified_at": "2026-10-16T02:34:33.000000000Z",
+  "generated_at": "2026-10-16T02:34:33.000000000Z",
+  "download_request": {
+    "total_api_blocks_in_run": 2,
+    "chunk_api_blocks": 1,
+    "chunk_permanent_errors": 0,
+    "permanent_error_details": [],
+    "all_block_outcomes": [
+      {
+        "from": "2005-01-03T22:00:00Z",
+        "to": "2018-09-12T22:00:00Z",
+        "code": 200,
+        "msg": "OK"
+      }
+    ]
+  }
+}
