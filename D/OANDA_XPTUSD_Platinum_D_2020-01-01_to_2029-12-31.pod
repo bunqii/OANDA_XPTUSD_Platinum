@@ -6,7 +6,7 @@
   "chunk_end": "2029-12-31",
   "parquet_file": "OANDA_XPTUSD_Platinum_D_2020-01-01_to_2029-12-31.parquet",
   "data_file": "OANDA_XPTUSD_Platinum_D_2020-01-01_to_2029-12-31.parquet",
-  "row_count": 1737,
+  "row_count": 1738,
   "first_candle": {
     "time": 1577916000,
     "Time": "2020-01-01T22:00:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 8150
   },
   "last_candle": {
-    "time": 1792011600,
-    "Time": "2026-10-14T21:00:00.000000000Z",
-    "open": 1585.506,
-    "high": 1618.265,
-    "low": 1582.507,
-    "close": 1614.768,
-    "volume": 217736
+    "time": 1792098000,
+    "Time": "2026-10-15T21:00:00.000000000Z",
+    "open": 1615.813,
+    "high": 1640.232,
+    "low": 1601.572,
+    "close": 1619.114,
+    "volume": 222536
   },
   "csv_file": "OANDA_XPTUSD_Platinum_D_2020-01-01_to_2029-12-31.parquet",
-  "csv_row_count": 1737,
+  "csv_row_count": 1738,
   "csv_first_candle": {
     "time": 1577916000,
     "Time": "2020-01-01T22:00:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 8150
   },
   "csv_last_candle": {
-    "time": 1792011600,
-    "Time": "2026-10-14T21:00:00.000000000Z",
-    "open": 1585.506,
-    "high": 1618.265,
-    "low": 1582.507,
-    "close": 1614.768,
-    "volume": 217736
+    "time": 1792098000,
+    "Time": "2026-10-15T21:00:00.000000000Z",
+    "open": 1615.813,
+    "high": 1640.232,
+    "low": 1601.572,
+    "close": 1619.114,
+    "volume": 222536
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-10-16T02:34:33.000000000Z",
-  "generated_at": "2026-10-16T02:34:33.000000000Z",
+  "verified_at": "2026-10-17T22:01:06.000000000Z",
+  "generated_at": "2026-10-17T22:01:06.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 2,
     "chunk_api_blocks": 1,
@@ -56,7 +56,7 @@
     "all_block_outcomes": [
       {
         "from": "2018-09-12T22:00:00Z",
-        "to": "2026-10-15T21:00:00Z",
+        "to": "2026-10-16T21:00:00Z",
         "code": 200,
         "msg": "OK"
       }
